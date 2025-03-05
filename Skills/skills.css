@@ -1,0 +1,37 @@
+body {
+    background-color: #FFE5D9;
+    color: #9D8189;
+    font-family: Cambria, sans-serif;
+    font-size: 17px;
+    margin: 20px;
+    padding: 10px 10px;
+}
+
+header {
+    background-color: #D17D98;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 50px;
+    margin: 0;
+    font-family: 'Monteci';
+    background-color: #ffcad4;
+    color: #540b0e;
+    text-align: center;
+    padding: 10px;
+}
+
+h2, h3 {
+    font-family: 'Monteci';
+    font-size: 35px;
+    color: #56021F;
+    text-align: left;
+    font-weight: bold;
+}
+
+sup {
+    color: #F4ACB7; 
+}

@@ -1,0 +1,46 @@
+body {
+    font-family: Cambria, Arial, sans-serif;
+    background-color: #FFEFC7;
+    font-size: 25px;
+    margin: 0;
+    padding: 0;
+}
+
+.centered-title {
+    text-align: center;
+    margin-top: 20px;
+}
+
+h1 {
+    color: Black;
+    font-family: 'Monica Berry';
+    font-size: 55px;
+}
+
+h2 {
+    font-size: 35px;
+    font-family: 'Monica Berry';
+}
+
+.section-box {
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
+}
+
+h3 {
+    color: Black;
+    font-family: 'Cambria';
+    font-weight: bold;
+    font-size: 35px;
+}
+
+p {
+    font-size: 25px; 
+    font-family: 'Cambria', serif; 
+    text-align: justify;
+    text-indent: 40px;
+}
