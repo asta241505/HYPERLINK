@@ -1,18 +1,20 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #edf8fe;
-    color: black;
+    background-color: #f9f3f3;
+    color: #4b2a63;
     text-align: center;
     margin: 0;
     padding: 0;
     line-height: 1.6;
 }
+
 h1 {
     color: #ffb7c6;
     margin-top: 50px;
     font-size: 3rem;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
 }
+
 p {
     font-size: 18px;
     margin: 20px 0;
@@ -22,7 +24,9 @@ p {
     font-weight: 400;
     line-height: 1.7;
     letter-spacing: 0.5px;
+    color: #8b5c75;
 }
+
 .links {
     margin-top: 30px;
     display: flex;
@@ -30,21 +34,23 @@ p {
     flex-wrap: wrap;
     gap: 30px;
 }
+
 a {
     text-decoration: none;
-    color: #007bff;
+    color: #f8a8b8;
     font-size: 22px;
     margin: 10px;
     display: inline-block;
-    padding: 10px 20px;
+    padding: 12px 24px;
     border-radius: 30px;
-    background-color: rgba(0, 123, 255, 0.1);
+    background-color: rgba(248, 168, 184, 0.2);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     transition: all 0.3s ease-in-out;
 }
+
 a:hover {
-    color: #0056b3;
+    color: #f6c3d7;
     transform: translateY(-5px);
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
-    background-color: rgba(0, 123, 255, 0.2);
+    background-color: rgba(248, 168, 184, 0.3);
 }
